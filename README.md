@@ -32,7 +32,7 @@ A janela de ferramentas permite selecionar o tipo de pincel, entre `caneta`, `cÃ
 
 
 <p>
-  <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/IFST-Image-Frequency-Spectrum-Tool/blob/main/icons/design.png" width="50%">
+  <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/IFST-Image-Frequency-Spectrum-Tool/blob/main/icons/design.png" width="25%">
 
 </p>
 
