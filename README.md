@@ -18,7 +18,7 @@ pip install cv2 numpy
 
 ##### Como utilizar:
 
-Para utilizar, carregue sua imagem no mesmo diretório do arquivo `frequency_canvas.ipynb`, com o nome image.jpg  
+Para utilizar, carregue sua imagem no mesmo diretório do arquivo `frequency_canvas.ipynb`, com o nome `image.jpg`  
 Execute todos os blocos do python notebook, uma nova janela é aberta.  
 A janela permite a pintura dos pixels da imagem da esquerda, que atualiza em tempo real a imagem na direita, mostrando o resultado.  
 
