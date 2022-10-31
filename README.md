@@ -9,6 +9,13 @@ Essa ferramenta permite a manipualção de imagens de forma não convercional, a
 * `q` a janela é fechada e a execução para
 * `r` resseta todas as modificações
 
+##### Instalação:
+Dependências: `OpenCV`, `Numpy`.
+A instalação pode ser feita usando o comando: 
+```cmd 
+pip install cv2 numpy
+```
+
 ##### Como utilizar:
 
 Para utilizar, carregue sua imagem no mesmo diretório do arquivo `frequency_canvas.ipynb`, com o nome image.jpg  
