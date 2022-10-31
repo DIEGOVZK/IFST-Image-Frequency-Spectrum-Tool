@@ -39,12 +39,12 @@ A janela de ferramentas permite selecionar o tipo de pincel, entre `caneta`, `cÃ
 
 
 <p>
-  <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/IFST-Image-Frequency-Spectrum-Tool/blob/main/icons/design.png" width="100%">
+  <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/IFST-Image-Frequency-Spectrum-Tool/blob/main/icons/design.png" width="25%">
 
 </p>
 
 <p float="left">
   <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/IFST-Image-Frequency-Spectrum-Tool/blob/main/Documentation/lines.png" width="32.8%">
   <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/IFST-Image-Frequency-Spectrum-Tool/blob/main/Documentation/circles.png" width="32.8%">
-  <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/IFST-Image-Frequency-Spectrum-Tool/blob/main/Documentation/anticircles.png" width="32.8%">
+  <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/IFST-Image-Frequency-Spectrum-Tool/blob/main/Documentation/anticircle.png" width="32.8%">
 </p>
