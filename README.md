@@ -13,7 +13,7 @@ Essa ferramenta permite a manipualção de imagens de forma não convercional, a
 Dependências: `OpenCV`, `Numpy`.
 A instalação pode ser feita usando o comando: 
 ```cmd 
-pip install cv2 numpy
+pip install opencv-python numpy
 ```
 
 ##### Como utilizar:
