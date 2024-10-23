@@ -18,9 +18,10 @@ pip install opencv-python numpy
 
 ##### Como utilizar:
 
-Para utilizar, carregue sua imagem no mesmo diretório do arquivo `frequency_canvas.ipynb`, com o nome `image.jpg`  
+Para utilizar, carregue sua imagem na pasta `images`.
+Em seguida, altere esta linha no código: `image = cv2.imread('images/nome_da_imagem.jpg', 0)`
 Execute todos os blocos do Jupyter Notebook. Uma nova janela será aberta.  
-A janela permite a pintura dos pixels da imagem da esquerda, que atualiza em tempo real a imagem na direita, mostrando o resultado.  
+A janela permite a pintura dos pixels da imagem da esquerda, que atualiza em tempo real a imagem na direita, mostrando o resultado.
 
 <p>
   <img style="background-color:#FFFFFF" src="https://github.com/DIEGOVZK/IFST-Image-Frequency-Spectrum-Tool/blob/main/Documentation/tool.png" width="100%">
